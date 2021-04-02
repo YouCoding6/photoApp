@@ -13,6 +13,7 @@ gem 'devise-bootstrap-views'
 gem 'puma', '~> 5.0'
 gem 'jquery-rails'
 gem 'dotenv-rails'
+gem 'stripe'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
