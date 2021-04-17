@@ -12,7 +12,7 @@ gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'puma', '~> 5.0'
 gem 'jquery-rails'
-gem 'dotenv-rails'
+gem 'dotenv-rails', :groups => [:development, :test]
 gem 'stripe'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
